@@ -1,7 +1,9 @@
 p {
   font-family: Arial;
+  font-size: 20px;
+  color: maroon;
 }
 
 h3 {
-  color: maroon;
+  color: gray;
 }
