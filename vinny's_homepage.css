@@ -1,3 +1,7 @@
+body {
+  background: #141E30;
+}
+
 p {
   font-family: Calibri;
   font-size: 16px;
@@ -18,5 +22,5 @@ ol {
 .contnet {
   font-family: Calibri;  
   font-size: 16px;
-  color: #B2B1B1;
+  color: #037818;
  }
