@@ -5,7 +5,7 @@ p {
 }
 
 h3 {
-  color: maroon;
+  color: firebrick;
 }
 
 ol {
@@ -13,3 +13,7 @@ ol {
   font-size: 20px;
   color: gray;
 }
+
+.title {
+  color: teal;
+ }
