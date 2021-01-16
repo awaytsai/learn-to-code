@@ -5,16 +5,18 @@ p {
 }
 
 h3 {
-  font-family: Arial;
+  font-family: Calibri;
   color: firebrick;
 }
 
 ol {
-  font-family: Arial;
+  font-family: Calibri;
   font-size: 16px;
   color: gray;
 }
 
-.title {
-  color: teal;
+.contnet {
+  font-family: Calibri;  
+  font-size: 16px;
+  color: #B2B1B1;
  }
