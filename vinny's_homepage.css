@@ -1,9 +1,15 @@
 p {
   font-family: Arial;
   font-size: 20px;
-  color: maroon;
+  color: gray;
 }
 
 h3 {
+  color: maroon;
+}
+
+ol{
+  font-family: Arial;
+  font-size: 20px;
   color: gray;
 }
