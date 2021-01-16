@@ -1,16 +1,17 @@
 p {
-  font-family: Arial;
-  font-size: 20px;
+  font-family: calibri, Microsoft JhengHei;
+  font-size: 14px;
   color: gray;
 }
 
 h3 {
+  font-family: Arial;
   color: firebrick;
 }
 
 ol {
   font-family: Arial;
-  font-size: 20px;
+  font-size: 14px;
   color: gray;
 }
 
