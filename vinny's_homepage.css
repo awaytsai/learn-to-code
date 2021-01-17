@@ -1,3 +1,14 @@
+.content {
+  font-family: Microsoft JhengHei;  
+  font-size: 16px;
+ }
+
+.recruitme {
+  font-weight: bold;
+  font-size: 18px;
+  color: firebrick;
+  }
+
 body {
   background: #141E30;
 }
@@ -19,25 +30,15 @@ h1{
 
 
 h3 {
-  color: #037818;
+  color: #forestgreen;
 }
 
 p {
-  color: gray;
+  color: white;
 }
 
 ol {
-  color: gray;
+  color: white;
 }
 
-.content {
-  font-family: Microsoft JhengHei;  
-  font-size: 16px;
- }
 
-.recruitme {
-  font-weight: bold;
-  font-size: 18px;
-  color: #FD6D03;
-  }
-  
