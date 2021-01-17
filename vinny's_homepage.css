@@ -15,15 +15,15 @@
   color: firebrick;
   }
 
-body {
-  background: #141E30;
-}
-
-img{
+.img{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+body {
+  background: #141E30;
 }
 
 h1{
