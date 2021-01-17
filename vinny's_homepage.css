@@ -18,20 +18,23 @@ h1{
   font-family: Calibri;
   font-weight: bold;
   color: #FFFFFF;
-  font-align: center;
+  text-align: center;
   }
 
 
 h3 {
   color: white;
+  text-align: center;
 }
 
 p {
   color: gray;
+  text-align: center;
 }
 
 ol {
   color: gray;
+  text-align: center;
 }
 
 
