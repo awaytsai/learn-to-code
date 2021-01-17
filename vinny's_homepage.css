@@ -11,24 +11,25 @@ h1{
 
 
 h3 {
-  font-family: Calibri;
   color: #037818;
 }
 
 p {
-  font-family: Calibri;
-  font-size: 16px;
   color: gray;
 }
 
 ol {
-  font-family: Calibri;
-  font-size: 16px;
   color: gray;
 }
 
-.contnet {
-  font-family: Calibri;  
+.content {
+  font-family: Microsoft JhengHei;  
   font-size: 16px;
-  color: #037818;
  }
+
+.recruitme {
+  font-weight: bold;
+  font-size: 18px;
+  color: #FD6D03;
+  }
+  
